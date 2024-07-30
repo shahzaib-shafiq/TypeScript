@@ -1,3 +1,6 @@
+let user = { name: "Shahzaib", age: 10 };
+console.log(user.name);
+
 let num: number = 5;
 
 const sum = (a: number, b: number): number => {
